@@ -1,1 +1,1 @@
-web: python3 -m zthon
+web: bash start.sh
