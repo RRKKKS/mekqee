@@ -1,1 +1,1 @@
-web: bash python3 -m zthon
+web: python3 -m zthon
